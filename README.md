@@ -60,9 +60,7 @@ Become job-ready for a Cloud / DevOps role by 2026.
 
 ---
 
-## 📊 GitHub Stats
 
-![Badal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badal-sen&show_icons=true&theme=tokyonight)
 <!--
 **Badal-sen/Badal-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
