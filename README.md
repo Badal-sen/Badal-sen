@@ -30,7 +30,7 @@ I am currently building hands-on experience in Cloud and DevOps by working on re
 ---
 
 💡 I focus on learning by building real projects instead of just theory.  
-📚 Currently in revision phase to strengthen fundamentals before applying for DevOps roles.
+
 
 ---
 
