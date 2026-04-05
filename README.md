@@ -1,6 +1,6 @@
 # Hi, I'm Badal 👋
 
-Aspiring Cloud DevOps Engineer focused on building real-world AWS and automation projects.
+Aspiring Cloud | DevOps Engineer focused on building real-world AWS and automation projects.
 
 ---
 
