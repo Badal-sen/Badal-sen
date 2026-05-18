@@ -1,12 +1,16 @@
 # Hi, I'm Badal 👋
 
-Aspiring Cloud | DevOps Engineer focused on building real-world AWS and automation projects.
+Building cloud infrastructure & automation projects using AWS, Terraform, Docker, and Github Actions.
 
 ---
 
-## 🚀 What I'm Learning & Practicing
-
-I am currently building hands-on experience in Cloud and DevOps by working on real-world projects and strengthening my fundamentals.
+## 🚀 Current focus
+- AWS Infrastructure Automation
+- Terraform Provisioning
+- Dockerized Applications
+- GitHub Actions CI/CD
+- Kubernetes Fundamentals
+- Linux & Shell Scripting
 
 ### 🔹 Core Skills
 - Linux (file system, permissions, process management, basic networking)
@@ -45,7 +49,7 @@ I am currently building hands-on experience in Cloud and DevOps by working on re
 
 ## 🎯 Goal
 
-Become job-ready for a Cloud / DevOps role by 2026.
+Focused on building production-style cloud infrastructure and automation projects.
 
 ---
 
