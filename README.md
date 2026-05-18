@@ -5,21 +5,21 @@ Building cloud infrastructure & automation projects using AWS, Terraform, Docker
 ---
 
 ## 🚀 Current focus
-- AWS Infrastructure Automation
-- Terraform Provisioning
-- Dockerized Applications
-- GitHub Actions CI/CD
-- Kubernetes Fundamentals
-- Linux & Shell Scripting
-
+• Provisioning AWS infrastructure with Terraform
+• Building Dockerized Flask applications
+• Automating CI/CD using GitHub Actions
+• Learning Kubernetes fundamentals
+• Writing reusable Infrastructure as Code
 ---
 
 ## 🛠️ Projects
 
-- Flask AWS DevOps Project  
-- Docker + GitHub Actions CI/CD  
-- Terraform EC2 + Nginx  
-- Terraform S3 Automation  
+• Terraform AWS EC2 + Nginx Infrastructure
+• Dockerized Flask Application Deployment
+• GitHub Actions CI/CD Pipeline
+• Terraform AWS S3 Bucket Provisioning
+• Two-Tier Flask + MySQL Architecture
+• AWS Infrastructure Automation Labs
 
 ---
 
