@@ -3,8 +3,8 @@
 Building cloud infrastructure & automation projects using AWS, Terraform, Docker, and Github Actions.
 
 ---
+🚀 Current Focus
 
-## 🚀 Current focus
 • Provisioning AWS infrastructure with Terraform
 • Building Dockerized Flask applications
 • Automating CI/CD using GitHub Actions
@@ -12,7 +12,7 @@ Building cloud infrastructure & automation projects using AWS, Terraform, Docker
 • Writing reusable Infrastructure as Code
 ---
 
-## 🛠️ Projects
+🛠 Projects
 
 • Terraform AWS EC2 + Nginx Infrastructure
 • Dockerized Flask Application Deployment
