@@ -12,30 +12,6 @@ Building cloud infrastructure & automation projects using AWS, Terraform, Docker
 - Kubernetes Fundamentals
 - Linux & Shell Scripting
 
-### 🔹 Core Skills
-- Linux (file system, permissions, process management, basic networking)
-- Git & GitHub (version control, branching, collaboration)
-
-### 🔹 Containerization
-- Docker (building images, running containers, port mapping, Dockerfile)
-
-### 🔹 Infrastructure as Code
-- Terraform (writing .tf files, provisioning AWS resources, state management)
-
-### 🔹 Cloud Platforms
-- AWS (EC2, S3, basic networking, deploying applications)
-
-### 🔹 CI/CD
-- GitHub Actions (automating build, test, and deployment pipelines)
-
-### 🔹 Scripting
-- Shell Scripting (currently improving automation skills)
-
----
-
-💡 I focus on learning by building real projects instead of just theory.  
-
-
 ---
 
 ## 🛠️ Projects
