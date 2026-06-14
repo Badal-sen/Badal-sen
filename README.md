@@ -1,56 +1,68 @@
 # Hi, I'm Badal 👋
 
-Building cloud infrastructure & automation projects using AWS, Terraform, Docker, and Github Actions.
-
----
-🚀 Current Focus
-
-- Provisioning AWS infrastructure with Terraform
-- Building Dockerized Flask applications
-- Automating CI/CD using GitHub Actions
-- Learning Kubernetes fundamentals
-- Writing reusable Infrastructure as Code
-
-🛠 Projects
-
-- Terraform AWS EC2 + Nginx Infrastructure
-- Dockerized Flask Application Deployment
-- GitHub Actions CI/CD Pipeline
-- Terraform AWS S3 Bucket Provisioning
-- Two-Tier Flask + MySQL Architecture
-- AWS Infrastructure Automation Labs
+Aspiring Cloud & DevOps Engineer building production-style applications and infrastructure on AWS.
 
 ---
 
-## 🎯 Goal
+## 🚀 Current Focus
 
-Focused on building production-style cloud infrastructure and automation projects.
+* AWS Cloud Infrastructure
+* Docker & Containerization
+* Amazon ECS Fargate
+* Terraform Infrastructure as Code
+* CI/CD with GitHub Actions
+* Kubernetes Fundamentals
+
+---
+
+## 🛠 Featured Projects
+
+### Cloud-Native Employee Management System on AWS
+
+* Flask + PostgreSQL application
+* Dockerized deployment
+* Amazon ECS Fargate
+* Amazon ECR
+* Amazon RDS PostgreSQL
+* Application Load Balancer
+* GitHub Actions CI/CD
+* CloudWatch Logging
+
+### Terraform AWS Infrastructure
+
+* VPC
+* Subnets
+* Security Groups
+* EC2 Deployments
+* Infrastructure as Code
+
+### CI/CD Automation Projects
+
+* Docker image builds
+* GitHub Actions workflows
+* Automated AWS deployments
+
+---
+
+## 🎯 Career Goal
+
+Preparing for Cloud & DevOps Engineering roles by building and operating real-world AWS projects focused on automation, containerization, cloud infrastructure, and CI/CD.
 
 ---
 
 ## ⚙️ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
 
 ---
 
+## 📈 Recent Milestone
 
-<!--
-**Badal-sen/Badal-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Successfully built and deployed a Cloud-Native Employee Management System on AWS using ECS Fargate, PostgreSQL RDS, Docker, ECR, ALB, CloudWatch, and GitHub Actions CI/CD.
