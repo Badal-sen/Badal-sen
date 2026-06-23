@@ -65,8 +65,6 @@ Preparing for Cloud & DevOps Engineering roles by building and operating real-wo
 
 ## 📈 Recent Milestone
 
-## 📈 Recent Milestone
-
 Successfully designed, built, and deployed **CloudForge**, a production-ready AWS DevOps platform featuring:
 
 - 🔐 JWT Authentication
