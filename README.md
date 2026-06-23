@@ -65,4 +65,21 @@ Preparing for Cloud & DevOps Engineering roles by building and operating real-wo
 
 ## 📈 Recent Milestone
 
-Successfully built and deployed a Cloud-Native Employee Management System on AWS using ECS Fargate, PostgreSQL RDS, Docker, ECR, ALB, CloudWatch, and GitHub Actions CI/CD.
+## 📈 Recent Milestone
+
+Successfully designed, built, and deployed **CloudForge**, a production-ready AWS DevOps platform featuring:
+
+- 🔐 JWT Authentication
+- 🚀 FastAPI REST API
+- 🐳 Docker Containerization
+- ☁️ AWS EC2 Deployment
+- 🗄️ Amazon RDS PostgreSQL
+- ⚖️ Application Load Balancer (ALB)
+- 🌐 Cloudflare HTTPS
+- 🔄 GitHub Actions CI/CD
+- 📚 Interactive Swagger API Documentation
+
+🔗 Live Demo: https://badalbk.dev
+
+📂 Repository: https://github.com/Badal-sen/CloudForge
+
