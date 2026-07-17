@@ -1,83 +1,142 @@
 # Hi, I'm Badal 👋
 
-Aspiring Cloud & DevOps Engineer building production-style applications and infrastructure on AWS.
+Aspiring Cloud & Systems Engineer passionate about building production-ready cloud applications, automating infrastructure, and managing Windows Server environments.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-* AWS Cloud Infrastructure
-* Docker & Containerization
-* Amazon ECS Fargate
-* Terraform Infrastructure as Code
-* CI/CD with GitHub Actions
-* Kubernetes Fundamentals
-
----
-
-## 🛠 Featured Projects
-
-### Cloud-Native Employee Management System on AWS
-
-* Flask + PostgreSQL application
-* Dockerized deployment
-* Amazon ECS Fargate
-* Amazon ECR
-* Amazon RDS PostgreSQL
-* Application Load Balancer
-* GitHub Actions CI/CD
-* CloudWatch Logging
-
-### Terraform AWS Infrastructure
-
-* VPC
-* Subnets
-* Security Groups
-* EC2 Deployments
-* Infrastructure as Code
-
-### CI/CD Automation Projects
-
-* Docker image builds
-* GitHub Actions workflows
-* Automated AWS deployments
+- Cloud Engineering
+- Windows Server Administration
+- Microsoft 365 & Entra ID
+- Active Directory
+- AWS Cloud
+- Docker & Containers
+- Terraform
+- CI/CD Automation
+- Kubernetes Fundamentals
 
 ---
 
-## 🎯 Career Goal
+# 🛠 Featured Projects
 
-Preparing for Cloud & DevOps Engineering roles by building and operating real-world AWS projects focused on automation, containerization, cloud infrastructure, and CI/CD.
+## ☁️ CloudForge – Production Cloud Application
+
+- FastAPI REST API
+- JWT Authentication
+- Docker
+- PostgreSQL
+- SQLAlchemy ORM
+- GitHub Actions
+- Render Cloud Deployment
+- Cloudflare DNS
+- HTTPS & Custom Domain
+- Interactive Swagger API
+
+🌐 Live Demo:
+https://badalbk.dev
+
+Repository:
+https://github.com/Badal-sen/CloudForge
 
 ---
 
-## ⚙️ Tech Stack
+## 🖥 Azure Active Directory Home Lab
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+- Azure Virtual Machines
+- Windows Server 2022
+- Active Directory Domain Services
+- DNS Configuration
+- Organizational Units (OUs)
+- User & Group Management
+- Domain Join
+- PowerShell Administration
 
 ---
 
-## 📈 Recent Milestone
+## 🏢 Windows Server Administration Lab
 
-Successfully designed, built, and deployed **CloudForge**, a production-ready AWS DevOps platform featuring:
+- Windows Server 2022
+- Active Directory
+- DNS
+- DHCP
+- Group Policy (GPO)
+- Microsoft 365 Administration
+- Microsoft Entra ID (Azure AD)
+- Exchange Online
+- Outlook & Teams Administration
+- PowerShell Automation
+- Remote Administration
+- IT Support Troubleshooting
 
-- 🔐 JWT Authentication
-- 🚀 FastAPI REST API
-- 🐳 Docker Containerization
-- ☁️ AWS EC2 Deployment
-- 🗄️ Amazon RDS PostgreSQL
-- ⚖️ Application Load Balancer (ALB)
-- 🌐 Cloudflare HTTPS
-- 🔄 GitHub Actions CI/CD
-- 📚 Interactive Swagger API Documentation
+---
 
-🔗 Live Demo: https://badalbk.dev
+## ☁️ Terraform AWS Infrastructure
 
-📂 Repository: https://github.com/Badal-sen/CloudForge
+- VPC
+- Public & Private Subnets
+- Security Groups
+- EC2
+- Infrastructure as Code
+- Modular Terraform
 
+---
+
+## 🔄 CI/CD Automation
+
+- GitHub Actions
+- Docker Image Build
+- Automated Deployments
+- Environment Variables
+- Production Pipelines
+
+---
+
+# 🎯 Career Goal
+
+Seeking opportunities as an:
+
+- IT Support Engineer
+- Systems Administrator
+- Cloud Support Engineer
+- Cloud Engineer
+- DevOps Engineer
+
+while continuously improving my cloud, automation, Windows Server, and infrastructure skills.
+
+---
+
+# ⚙️ Tech Stack
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 📈 Latest Milestones
+
+✅ Built and deployed **CloudForge** with Docker, FastAPI, PostgreSQL, Cloudflare DNS, HTTPS, and a custom domain.
+
+✅ Built an **Azure Active Directory Home Lab** with Windows Server, DNS, Organizational Units, domain-joined clients, users, and groups.
+
+✅ Completed a **Windows Server Administration Lab** covering Active Directory, DNS, DHCP, Microsoft 365, Entra ID, Exchange Online, PowerShell, and IT Support administration.
+
+🌐 Portfolio:
+https://badalbk.dev
+
+💻 GitHub:
+https://github.com/Badal-sen
